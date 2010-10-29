@@ -2,7 +2,7 @@
 //  ChecklistAppDelegate.h
 //  Checklist
 //
-//  Created by Gerard Hickey on 9/29/10.
+//  Created by Gerard Hickey on 10/28/10.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
